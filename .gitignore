@@ -1,0 +1,5 @@
+2020log/
+2020admin/
+*.log
+uncaughtException.log
+node_modules/
